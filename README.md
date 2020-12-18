@@ -1,4 +1,4 @@
-#Implementation of Perceptron Learning Algorithm, gradient descent algorithm for linear regression, and various Machine Learning tools from SKLearn
+**Implementation of Perceptron Learning Algorithm, gradient descent algorithm for linear regression, and various Machine Learning tools from SKLearn**
 
 skLearnGridSearch takes a while to run, its grid searching a range of parameters for 7 classifiers:
 
@@ -7,3 +7,6 @@ skLearnGridSearch takes a while to run, its grid searching a range of parameters
     Logistic Regression Classifier
     Random Forest Classifier
     Decision Tree Classifier
+
+You can check out my notebook for the SkLearn part of the project here:
+https://simple-website112233.herokuapp.com/sklearn/
